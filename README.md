@@ -73,4 +73,3 @@ The pipeline covers **data preprocessing, feature selection, dimensionality redu
 - Optimized model with best hyperparameters  
 - Exported `.pkl` model pipeline  
 
-## 📑 Project Structure
